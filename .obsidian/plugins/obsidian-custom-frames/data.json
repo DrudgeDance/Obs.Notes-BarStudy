@@ -1,0 +1,38 @@
+{
+  "frames": [
+    {
+      "url": "https://testmaxprep.com/bar-exam/login",
+      "displayName": "BarMax",
+      "icon": "scale",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://track.toggl.com/timer",
+      "displayName": "Toggl",
+      "icon": "hourglass",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.brain.fm/",
+      "displayName": "Brain.FM",
+      "icon": "music-4",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}
