@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Test 1.md",
+                "file": "Test Test 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#first/second/thrid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Test 1.md",
+                "file": "Test Test 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Test 1.md",
+                "file": "Test Test 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Test 1.md"
+                "file": "Test Test 2.md"
               }
             }
           },
@@ -229,12 +230,12 @@
       "obsidian-custom-frames:Open Brain.FM": false
     }
   },
-  "active": "3a123aef3305046c",
+  "active": "5b3ea1bcee25580a",
   "lastOpenFiles": [
-    "Test Test.md",
     "Test Test 2.md",
     "Test Test 1 2.md",
     "Test Test 1.md",
+    "Test Test.md",
     "Notes - Civil Procedure.md",
     "a.md",
     "Templates.md",
