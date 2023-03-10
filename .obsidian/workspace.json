@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a.md",
+                "file": "Test Test 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a.md",
+                "file": "Test Test 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a.md",
+                "file": "Test Test 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a.md"
+                "file": "Test Test 1.md"
               }
             }
           },
@@ -223,14 +223,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-custom-frames:Open BarMax": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "obsidian-custom-frames:Open BarMax": false,
       "obsidian-custom-frames:Open Toggl": false,
       "obsidian-custom-frames:Open Brain.FM": false
     }
   },
-  "active": "5b3ea1bcee25580a",
+  "active": "3a123aef3305046c",
   "lastOpenFiles": [
+    "Test Test.md",
+    "Test Test 2.md",
+    "Test Test 1 2.md",
+    "Test Test 1.md",
+    "Notes - Civil Procedure.md",
     "a.md",
     "Templates.md",
     "untitled folder 4",

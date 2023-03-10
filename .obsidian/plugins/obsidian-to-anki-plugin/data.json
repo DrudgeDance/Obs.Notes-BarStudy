@@ -15,8 +15,72 @@
       "Cloze": "Text"
     },
     "CONTEXT_FIELDS": {},
-    "FOLDER_DECKS": {},
-    "FOLDER_TAGS": {},
+    "FOLDER_DECKS": {
+      "CodeSmith Non-Notes": "",
+      "Notes - Interview Preperation": "",
+      "Notes - JavaScript": "",
+      "Notes - Using Postman": "",
+      "Templates": "",
+      "Notes - JavaScript/Notes - Old": "",
+      "Notes - Linux": "",
+      "Notes - RaspberryPi": "",
+      "SoftwareChallenges": "",
+      "Notes - Linux/Actual Display VNC (TigerVNC)": "",
+      "Notes - Linux/Auto Login": "",
+      "Notes - Linux/systemd (run on startup)": "",
+      "Notes - Linux/Ubiquiti Commands": "",
+      "Notes - RaspberryPi/Docker": "",
+      "Notes - RaspberryPi/PiHole": "",
+      "Notes - RaspberryPi/RAID through USB": "",
+      "Notes - RaspberryPi/Samba": "",
+      "Notes - RaspberryPi/Torret": "",
+      "Notes - RaspberryPi/Wake on Lan (server, not client)": "",
+      "Notes - RaspberryPi/Wsdd": "",
+      "Notes - RaspberryPi/Wireshark": "",
+      "Notes - RaspberryPi/ipfire": "",
+      "Notes - Linux/Auto Login/_pgbackup": "",
+      "Notes - Linux/systemd (run on startup)/_pgbackup": "",
+      "Notes - RaspberryPi/Docker/Installation of Docker": "",
+      "Notes - RaspberryPi/Docker/ListStopDockerContainers": "",
+      "Notes - RaspberryPi/Docker/RomeDockerContainers": "",
+      "Notes - RaspberryPi/Docker/SharingDataBWContainers": "",
+      "Notes - RaspberryPi/RAID through USB/1. Fdisk": "",
+      "Notes - RaspberryPi/RAID through USB/2. mdadm": "",
+      "Notes - RaspberryPi/Wireshark/enable predictable interface naming": ""
+    },
+    "FOLDER_TAGS": {
+      "CodeSmith Non-Notes": "",
+      "Notes - Interview Preperation": "",
+      "Notes - JavaScript": "",
+      "Notes - Using Postman": "",
+      "Templates": "",
+      "Notes - JavaScript/Notes - Old": "",
+      "Notes - Linux": "",
+      "Notes - RaspberryPi": "",
+      "SoftwareChallenges": "",
+      "Notes - Linux/Actual Display VNC (TigerVNC)": "",
+      "Notes - Linux/Auto Login": "",
+      "Notes - Linux/systemd (run on startup)": "",
+      "Notes - Linux/Ubiquiti Commands": "",
+      "Notes - RaspberryPi/Docker": "",
+      "Notes - RaspberryPi/PiHole": "",
+      "Notes - RaspberryPi/RAID through USB": "",
+      "Notes - RaspberryPi/Samba": "",
+      "Notes - RaspberryPi/Torret": "",
+      "Notes - RaspberryPi/Wake on Lan (server, not client)": "",
+      "Notes - RaspberryPi/Wsdd": "",
+      "Notes - RaspberryPi/Wireshark": "",
+      "Notes - RaspberryPi/ipfire": "",
+      "Notes - Linux/Auto Login/_pgbackup": "",
+      "Notes - Linux/systemd (run on startup)/_pgbackup": "",
+      "Notes - RaspberryPi/Docker/Installation of Docker": "",
+      "Notes - RaspberryPi/Docker/ListStopDockerContainers": "",
+      "Notes - RaspberryPi/Docker/RomeDockerContainers": "",
+      "Notes - RaspberryPi/Docker/SharingDataBWContainers": "",
+      "Notes - RaspberryPi/RAID through USB/1. Fdisk": "",
+      "Notes - RaspberryPi/RAID through USB/2. mdadm": "",
+      "Notes - RaspberryPi/Wireshark/enable predictable interface naming": ""
+    },
     "Syntax": {
       "Begin Note": "START",
       "End Note": "END",
@@ -30,7 +94,7 @@
     "Defaults": {
       "Tag": "Obsidian_to_Anki",
       "Deck": "Default",
-      "Scheduling Interval": 0,
+      "Scheduling Interval": 5,
       "Add File Link": false,
       "Add Context": false,
       "CurlyCloze": false,
@@ -40,6 +104,50 @@
     }
   },
   "Added Media": [],
-  "File Hashes": {},
-  "fields_dict": {}
+  "File Hashes": {
+    "Test Anki.md": "a0d1535a20c7f45c0cfa39a96894831e",
+    "README-COMBINED.md": "d7cf22770c630ccd7a0207cc737964aa",
+    "Notes - Using Postman/Postman.md": "1a84da7216b9bb1363ab1100d01c9e63",
+    "Notes - JavaScript/User Interfaces.md": "f4030ca2930baf0da9e0d57a55165d32",
+    "Notes - JavaScript/Promises, Async & the Event Loop.md": "a976a8e4890036b584839f17d36b3775",
+    "Notes - JavaScript/Notes - Old/Objects, Function & Execution Context.md": "27ebbbac5c463ad829123dbd2438c248",
+    "Notes - JavaScript/JavaScript - Basics.md": "0303bd4a8062f9d2468cad422ca5af05",
+    "Notes - JavaScript/Closure.md": "84829db36ed5af4f9232ff4029fb01f1",
+    "CodeSmith Non-Notes/Codesmith Courses.md": "e21a5e4001fd41128e9fdca1b353686f",
+    "Notes - Interview Preperation/CodeSmith Interview.md": "4483227fafe7ace42d2392e544ec2aec",
+    "Test Anki 1.md": "cba831e0b955692bbc860d1f03246504",
+    "Untitled.md": "b668b46ee70f5d77749fdb487076059d",
+    "Untitled 1.md": "72ae916d140868dd83b003b836b8c028",
+    "SoftwareChallenges/Software Challenges Online.md": "c87dd878c7b47f7498195c7ef072c72e",
+    "SoftwareChallenges/Software Bootcamps.md": "21fca3c577aeed12541b242e94c8e453",
+    "Notes - Linux/Ubiquiti Commands/README Commands Ubiquity.md": "19cf526218f9df9c493c721c79062b37",
+    "Notes - Linux/Ubiquiti Commands/Ubiquity Unifi-Talk.md": "f4561d0d7e26dfe4a69238462346e29e",
+    "Notes - Linux/README.md": "14ad715cc331497db6c8f78d6daf4781",
+    "Learning.md": "441eabd307c15d1fafba4a83fb23c802",
+    "Test Anki Test.md": "c2ddbfc9db7cfa59fa8a8af969f6fd4a",
+    "Test Test.md": "6c6a5f55dbcc48fba6c5830f909b607e"
+  },
+  "fields_dict": {
+    "Basic": [
+      "Front",
+      "Back"
+    ],
+    "Basic (and reversed card)": [
+      "Front",
+      "Back"
+    ],
+    "Basic (optional reversed card)": [
+      "Front",
+      "Back",
+      "Add Reverse"
+    ],
+    "Basic (type in the answer)": [
+      "Front",
+      "Back"
+    ],
+    "Cloze": [
+      "Text",
+      "Back Extra"
+    ]
+  }
 }
