@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Test 2.md",
+                "file": "Test Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates.md",
+                "file": "Test Test 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,8 +103,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#first/second/thrid",
-                "matchingCase": false,
+                "query": "tag:#wahoo/second",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Test 2.md",
+                "file": "Test Test 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Test 2.md",
+                "file": "Test Test 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Test 2.md"
+                "file": "Test Test 1.md"
               }
             }
           },
@@ -230,15 +230,15 @@
       "obsidian-custom-frames:Open Brain.FM": false
     }
   },
-  "active": "5b3ea1bcee25580a",
+  "active": "9ee56b6cb658d32d",
   "lastOpenFiles": [
-    "Test Test 2.md",
-    "Test Test 1 2.md",
-    "Test Test 1.md",
     "Test Test.md",
+    "Templates.md",
+    "Test Test 1.md",
+    "Test Test 1 2.md",
+    "Test Test 2.md",
     "Notes - Civil Procedure.md",
     "a.md",
-    "Templates.md",
     "untitled folder 4",
     "untitled folder 3",
     "untitled folder 2",
