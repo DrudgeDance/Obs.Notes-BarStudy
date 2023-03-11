@@ -8,15 +8,30 @@
         "type": "split",
         "children": [
           {
-            "id": "44da5fff47cab4bc",
+            "id": "24a5a37e40069919",
             "type": "tabs",
-            "dimension": 14.931142788113071,
+            "dimension": 20.144927536231886,
             "children": [
               {
-                "id": "5ed5e0fa69533fbd",
+                "id": "9ee56b6cb658d32d",
                 "type": "leaf",
                 "state": {
-                  "type": "custom-frames-github",
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "d3b587f5c42732e0",
+            "type": "tabs",
+            "dimension": 27.02898550724638,
+            "children": [
+              {
+                "id": "6289fef5eb66d29e",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
                   "state": {}
                 }
               }
@@ -25,12 +40,12 @@
           {
             "id": "3cd269895996b0bf",
             "type": "split",
-            "dimension": 85.06885721188692,
+            "dimension": 52.826086956521735,
             "children": [
               {
                 "id": "d6203497e7c99eba",
                 "type": "split",
-                "dimension": 46.37478108581436,
+                "dimension": 76.77587706581618,
                 "children": [
                   {
                     "id": "e2cc176d89724a7d",
@@ -87,30 +102,15 @@
                 "direction": "horizontal"
               },
               {
-                "id": "c42655daf71be3c3",
+                "id": "91fd050d3342a331",
                 "type": "tabs",
-                "dimension": 25.569176882662,
+                "dimension": 23.22412293418382,
                 "children": [
                   {
-                    "id": "6289fef5eb66d29e",
+                    "id": "5ed5e0fa69533fbd",
                     "type": "leaf",
                     "state": {
-                      "type": "empty",
-                      "state": {}
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "c4e116249d931ff3",
-                "type": "tabs",
-                "dimension": 28.056042031523642,
-                "children": [
-                  {
-                    "id": "f03ea727d7cd105d",
-                    "type": "leaf",
-                    "state": {
-                      "type": "empty",
+                      "type": "custom-frames-github",
                       "state": {}
                     }
                   }
@@ -132,6 +132,7 @@
       {
         "id": "01bd32a8ae23a0e0",
         "type": "tabs",
+        "dimension": 45.76271186440678,
         "children": [
           {
             "id": "3a123aef3305046c",
@@ -168,6 +169,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "4602c57d97be410d",
+        "type": "tabs",
+        "dimension": 54.23728813559322,
+        "children": [
+          {
+            "id": "c0ce6e06a9054baa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,48 +229,21 @@
             }
           },
           {
-            "id": "c0ce6e06a9054baa",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "a381c85976a24b63",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
-          },
-          {
-            "id": "7fc1a5b845b27c7b",
-            "type": "leaf",
-            "state": {
-              "type": "toggl-report",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "259e1f1960888801",
         "type": "tabs",
         "dimension": 63.745019920318725,
         "children": [
-          {
-            "id": "9ee56b6cb658d32d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
           {
             "id": "e31a64f634fc5f53",
             "type": "leaf",
@@ -260,8 +252,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -286,7 +277,7 @@
       "obsidian-custom-frames:Open GitHub": false
     }
   },
-  "active": "6289fef5eb66d29e",
+  "active": "9ee56b6cb658d32d",
   "lastOpenFiles": [
     "Test Test.md",
     "Test Test 1.md",
