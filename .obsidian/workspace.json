@@ -10,7 +10,7 @@
           {
             "id": "44da5fff47cab4bc",
             "type": "tabs",
-            "dimension": 15.796344647519584,
+            "dimension": 14.931142788113071,
             "children": [
               {
                 "id": "5ed5e0fa69533fbd",
@@ -23,61 +23,101 @@
             ]
           },
           {
-            "id": "b2d8d572f2a43e34",
+            "id": "3cd269895996b0bf",
             "type": "split",
-            "dimension": 84.20365535248042,
+            "dimension": 85.06885721188692,
             "children": [
               {
-                "id": "e2cc176d89724a7d",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "fb5b6cc869349dd0",
-                    "type": "leaf",
-                    "state": {
-                      "type": "custom-frames-barmax",
-                      "state": {}
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "30009ba01076dbbf",
+                "id": "d6203497e7c99eba",
                 "type": "split",
+                "dimension": 46.37478108581436,
                 "children": [
                   {
-                    "id": "939efbf58980fdb5",
+                    "id": "e2cc176d89724a7d",
                     "type": "tabs",
                     "children": [
                       {
-                        "id": "a07d3cd3167fdabb",
+                        "id": "fb5b6cc869349dd0",
                         "type": "leaf",
                         "state": {
-                          "type": "custom-frames-pomofocus",
+                          "type": "custom-frames-barmax",
                           "state": {}
                         }
                       }
                     ]
                   },
                   {
-                    "id": "0be0f6abc67aecfb",
-                    "type": "tabs",
+                    "id": "7eddc261f78b54ce",
+                    "type": "split",
                     "children": [
                       {
-                        "id": "dbbc36f236ba03a2",
-                        "type": "leaf",
-                        "state": {
-                          "type": "custom-frames-toggl",
-                          "state": {}
-                        }
+                        "id": "9185b3d02f79856f",
+                        "type": "tabs",
+                        "dimension": 35.51745254133497,
+                        "children": [
+                          {
+                            "id": "a07d3cd3167fdabb",
+                            "type": "leaf",
+                            "state": {
+                              "type": "custom-frames-pomofocus",
+                              "state": {}
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "id": "f0b61bd89361c14e",
+                        "type": "tabs",
+                        "dimension": 64.48254745866502,
+                        "children": [
+                          {
+                            "id": "dbbc36f236ba03a2",
+                            "type": "leaf",
+                            "state": {
+                              "type": "custom-frames-toggl",
+                              "state": {}
+                            }
+                          }
+                        ]
                       }
-                    ]
+                    ],
+                    "direction": "vertical"
                   }
                 ],
-                "direction": "vertical"
+                "direction": "horizontal"
+              },
+              {
+                "id": "c42655daf71be3c3",
+                "type": "tabs",
+                "dimension": 25.569176882662,
+                "children": [
+                  {
+                    "id": "6289fef5eb66d29e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "empty",
+                      "state": {}
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "c4e116249d931ff3",
+                "type": "tabs",
+                "dimension": 28.056042031523642,
+                "children": [
+                  {
+                    "id": "f03ea727d7cd105d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "empty",
+                      "state": {}
+                    }
+                  }
+                ]
               }
             ],
-            "direction": "horizontal"
+            "direction": "vertical"
           }
         ],
         "direction": "vertical"
@@ -225,7 +265,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 2755.5
+    "width": 636.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,7 +286,7 @@
       "obsidian-custom-frames:Open GitHub": false
     }
   },
-  "active": "5ed5e0fa69533fbd",
+  "active": "6289fef5eb66d29e",
   "lastOpenFiles": [
     "Test Test.md",
     "Test Test 1.md",
