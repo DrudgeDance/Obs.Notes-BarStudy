@@ -47,7 +47,7 @@
     {
       "url": "pomofocus.io",
       "displayName": "Pomofocus",
-      "icon": "",
+      "icon": "focus",
       "hideOnMobile": true,
       "addRibbonIcon": true,
       "openInCenter": true,
