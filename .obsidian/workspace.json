@@ -10,7 +10,7 @@
           {
             "id": "24a5a37e40069919",
             "type": "tabs",
-            "dimension": 20.144927536231886,
+            "dimension": 15.568312284730196,
             "children": [
               {
                 "id": "9ee56b6cb658d32d",
@@ -25,7 +25,7 @@
           {
             "id": "d3b587f5c42732e0",
             "type": "tabs",
-            "dimension": 27.02898550724638,
+            "dimension": 37.24454649827784,
             "children": [
               {
                 "id": "6289fef5eb66d29e",
@@ -40,12 +40,12 @@
           {
             "id": "3cd269895996b0bf",
             "type": "split",
-            "dimension": 52.826086956521735,
+            "dimension": 47.18714121699196,
             "children": [
               {
                 "id": "d6203497e7c99eba",
                 "type": "split",
-                "dimension": 76.77587706581618,
+                "dimension": 75.71776155717762,
                 "children": [
                   {
                     "id": "e2cc176d89724a7d",
@@ -104,7 +104,7 @@
               {
                 "id": "91fd050d3342a331",
                 "type": "tabs",
-                "dimension": 23.22412293418382,
+                "dimension": 24.282238442822386,
                 "children": [
                   {
                     "id": "5ed5e0fa69533fbd",
@@ -132,7 +132,7 @@
       {
         "id": "01bd32a8ae23a0e0",
         "type": "tabs",
-        "dimension": 45.76271186440678,
+        "dimension": 51.1660777385159,
         "children": [
           {
             "id": "3a123aef3305046c",
@@ -150,8 +150,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#wahoo",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -167,13 +167,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4602c57d97be410d",
         "type": "tabs",
-        "dimension": 54.23728813559322,
+        "dimension": 48.8339222614841,
         "children": [
           {
             "id": "c0ce6e06a9054baa",
@@ -256,11 +255,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 636.5
+    "width": 420.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open Pomofocus": false,
       "obsidian-custom-frames:Open Zoom.us": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -274,11 +272,14 @@
       "obsidian-custom-frames:Open BarMax": false,
       "obsidian-custom-frames:Open Toggl": false,
       "obsidian-custom-frames:Open Brain.FM": false,
-      "obsidian-custom-frames:Open GitHub": false
+      "obsidian-custom-frames:Open GitHub": false,
+      "obsidian-custom-frames:Open Pomofocus": false
     }
   },
-  "active": "9ee56b6cb658d32d",
+  "active": "6289fef5eb66d29e",
   "lastOpenFiles": [
+    "Untitled 1",
+    "Untitled",
     "Test Test.md",
     "Test Test 1.md",
     "Templates.md",
