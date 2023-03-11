@@ -31,8 +31,12 @@
                 "id": "6289fef5eb66d29e",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Test Test.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ]
@@ -46,8 +50,12 @@
                 "id": "264901129fd498af",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Test Test 2.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ]
@@ -222,6 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test Test 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,6 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Test Test 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +258,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Test Test 2.md"
+              }
             }
           },
           {
@@ -285,17 +297,18 @@
       "obsidian-custom-frames:Open Pomofocus": false
     }
   },
-  "active": "6289fef5eb66d29e",
+  "active": "264901129fd498af",
   "lastOpenFiles": [
+    "Test Test 1 2.md",
+    "Test Test 1.md",
+    "Test Test.md",
+    "Templates.md",
+    "README.md",
+    "a.md",
     "Untitled 1",
     "Untitled",
-    "Test Test.md",
-    "Test Test 1.md",
-    "Templates.md",
-    "Test Test 1 2.md",
     "Test Test 2.md",
     "Notes - Civil Procedure.md",
-    "a.md",
     "untitled folder 4",
     "untitled folder 3",
     "untitled folder 2",
