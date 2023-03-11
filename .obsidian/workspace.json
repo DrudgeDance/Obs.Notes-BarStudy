@@ -31,12 +31,8 @@
                 "id": "6289fef5eb66d29e",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Test Test.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
@@ -50,12 +46,8 @@
                 "id": "264901129fd498af",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Test Test 2.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
@@ -230,7 +222,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Test 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +238,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Test 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,9 +248,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Test Test 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -297,7 +285,7 @@
       "obsidian-custom-frames:Open Pomofocus": false
     }
   },
-  "active": "264901129fd498af",
+  "active": "3a123aef3305046c",
   "lastOpenFiles": [
     "Test Test 1 2.md",
     "Test Test 1.md",
