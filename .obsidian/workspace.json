@@ -24,19 +24,40 @@
             ]
           },
           {
-            "id": "7d113e0c107acc17",
-            "type": "tabs",
+            "id": "abf6730082feacd7",
+            "type": "split",
             "dimension": 41.932270916334666,
             "children": [
               {
-                "id": "dbbc36f236ba03a2",
-                "type": "leaf",
-                "state": {
-                  "type": "custom-frames-toggl",
-                  "state": {}
-                }
+                "id": "7d113e0c107acc17",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "dbbc36f236ba03a2",
+                    "type": "leaf",
+                    "state": {
+                      "type": "custom-frames-toggl",
+                      "state": {}
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "c9e461a5a9309ba4",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "5f1d6bbe8122a816",
+                    "type": "leaf",
+                    "state": {
+                      "type": "empty",
+                      "state": {}
+                    }
+                  }
+                ]
               }
-            ]
+            ],
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -231,10 +252,11 @@
       "obsidian-custom-frames:Open BarMax": false,
       "obsidian-custom-frames:Open Toggl": false,
       "obsidian-custom-frames:Open Brain.FM": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "9ee56b6cb658d32d",
+  "active": "5f1d6bbe8122a816",
   "lastOpenFiles": [
     "Test Test.md",
     "Test Test 1.md",
