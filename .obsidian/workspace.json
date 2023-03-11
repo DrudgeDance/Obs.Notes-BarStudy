@@ -11,7 +11,7 @@
           {
             "id": "e2cc176d89724a7d",
             "type": "tabs",
-            "dimension": 58.06772908366534,
+            "dimension": 47.55145493257629,
             "children": [
               {
                 "id": "fb5b6cc869349dd0",
@@ -26,11 +26,12 @@
           {
             "id": "abf6730082feacd7",
             "type": "split",
-            "dimension": 41.932270916334666,
+            "dimension": 52.4485450674237,
             "children": [
               {
                 "id": "7d113e0c107acc17",
                 "type": "tabs",
+                "dimension": 59.59438377535101,
                 "children": [
                   {
                     "id": "dbbc36f236ba03a2",
@@ -45,6 +46,7 @@
               {
                 "id": "c9e461a5a9309ba4",
                 "type": "tabs",
+                "dimension": 40.40561622464899,
                 "children": [
                   {
                     "id": "5f1d6bbe8122a816",
@@ -243,18 +245,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open Zoom.us": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "obsidian-custom-frames:Open BarMax": false,
       "obsidian-custom-frames:Open Toggl": false,
-      "obsidian-custom-frames:Open Brain.FM": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "obsidian-custom-frames:Open Brain.FM": false
     }
   },
   "active": "a07d3cd3167fdabb",
