@@ -234,7 +234,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -256,7 +257,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5f1d6bbe8122a816",
+  "active": "a07d3cd3167fdabb",
   "lastOpenFiles": [
     "Test Test.md",
     "Test Test 1.md",
