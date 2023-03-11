@@ -4,13 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "3a1f1e4c1f97d152",
+        "id": "155140c53643ef10",
         "type": "split",
         "children": [
           {
-            "id": "34c39d5ffe4a9078",
+            "id": "44da5fff47cab4bc",
+            "type": "tabs",
+            "dimension": 15.796344647519584,
+            "children": [
+              {
+                "id": "5ed5e0fa69533fbd",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-github",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "b2d8d572f2a43e34",
             "type": "split",
-            "dimension": 63.35551330798479,
+            "dimension": 84.20365535248042,
             "children": [
               {
                 "id": "e2cc176d89724a7d",
@@ -27,13 +42,12 @@
                 ]
               },
               {
-                "id": "6cf4a50a0b68e7b4",
+                "id": "30009ba01076dbbf",
                 "type": "split",
                 "children": [
                   {
-                    "id": "d8215d289f9a0e4a",
+                    "id": "939efbf58980fdb5",
                     "type": "tabs",
-                    "dimension": 20.697012802275957,
                     "children": [
                       {
                         "id": "a07d3cd3167fdabb",
@@ -46,9 +60,8 @@
                     ]
                   },
                   {
-                    "id": "025d484632926d3c",
+                    "id": "0be0f6abc67aecfb",
                     "type": "tabs",
-                    "dimension": 79.30298719772404,
                     "children": [
                       {
                         "id": "dbbc36f236ba03a2",
@@ -65,21 +78,6 @@
               }
             ],
             "direction": "horizontal"
-          },
-          {
-            "id": "f5eba2aa3828108b",
-            "type": "tabs",
-            "dimension": 36.64448669201521,
-            "children": [
-              {
-                "id": "5ed5e0fa69533fbd",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ]
           }
         ],
         "direction": "vertical"
@@ -227,7 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 945.5
+    "width": 2755.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,7 +246,7 @@
       "obsidian-custom-frames:Open GitHub": false
     }
   },
-  "active": "a07d3cd3167fdabb",
+  "active": "5ed5e0fa69533fbd",
   "lastOpenFiles": [
     "Test Test.md",
     "Test Test 1.md",
