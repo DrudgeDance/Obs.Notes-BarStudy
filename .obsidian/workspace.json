@@ -10,7 +10,7 @@
           {
             "id": "24a5a37e40069919",
             "type": "tabs",
-            "dimension": 15.568312284730196,
+            "dimension": 14.46761800219539,
             "children": [
               {
                 "id": "9ee56b6cb658d32d",
@@ -25,7 +25,7 @@
           {
             "id": "d3b587f5c42732e0",
             "type": "tabs",
-            "dimension": 37.24454649827784,
+            "dimension": 20.30735455543359,
             "children": [
               {
                 "id": "6289fef5eb66d29e",
@@ -38,9 +38,24 @@
             ]
           },
           {
+            "id": "a9c227b8d47efdf9",
+            "type": "tabs",
+            "dimension": 19.209659714599344,
+            "children": [
+              {
+                "id": "264901129fd498af",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
             "id": "3cd269895996b0bf",
             "type": "split",
-            "dimension": 47.18714121699196,
+            "dimension": 46.015367727771675,
             "children": [
               {
                 "id": "d6203497e7c99eba",
@@ -50,6 +65,7 @@
                   {
                     "id": "e2cc176d89724a7d",
                     "type": "tabs",
+                    "dimension": 52.7542372881356,
                     "children": [
                       {
                         "id": "fb5b6cc869349dd0",
@@ -64,6 +80,7 @@
                   {
                     "id": "7eddc261f78b54ce",
                     "type": "split",
+                    "dimension": 47.24576271186441,
                     "children": [
                       {
                         "id": "9185b3d02f79856f",
@@ -198,7 +215,6 @@
       {
         "id": "6d156987bfbdd4f7",
         "type": "tabs",
-        "dimension": 36.254980079681275,
         "children": [
           {
             "id": "f2cefbf502b6975f",
@@ -234,15 +250,7 @@
               "type": "outline",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "259e1f1960888801",
-        "type": "tabs",
-        "dimension": 63.745019920318725,
-        "children": [
+          },
           {
             "id": "e31a64f634fc5f53",
             "type": "leaf",
@@ -251,11 +259,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 221.5
   },
   "left-ribbon": {
     "hiddenItems": {
