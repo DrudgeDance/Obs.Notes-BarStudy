@@ -56,12 +56,12 @@
       "customCss": ""
     },
     {
-      "url": "",
+      "url": "https://github.com/",
       "displayName": "GitHub",
-      "icon": "",
+      "icon": "git-pull-request-closed",
       "hideOnMobile": true,
-      "addRibbonIcon": false,
-      "openInCenter": false,
+      "addRibbonIcon": true,
+      "openInCenter": true,
       "zoomLevel": 1,
       "forceIframe": false,
       "customCss": ""

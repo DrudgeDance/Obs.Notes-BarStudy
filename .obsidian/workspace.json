@@ -244,7 +244,8 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "obsidian-custom-frames:Open BarMax": false,
       "obsidian-custom-frames:Open Toggl": false,
-      "obsidian-custom-frames:Open Brain.FM": false
+      "obsidian-custom-frames:Open Brain.FM": false,
+      "obsidian-custom-frames:Open GitHub": false
     }
   },
   "active": "a07d3cd3167fdabb",
