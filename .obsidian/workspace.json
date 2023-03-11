@@ -10,6 +10,7 @@
           {
             "id": "34c39d5ffe4a9078",
             "type": "split",
+            "dimension": 63.35551330798479,
             "children": [
               {
                 "id": "e2cc176d89724a7d",
@@ -26,18 +27,41 @@
                 ]
               },
               {
-                "id": "025d484632926d3c",
-                "type": "tabs",
+                "id": "6cf4a50a0b68e7b4",
+                "type": "split",
                 "children": [
                   {
-                    "id": "dbbc36f236ba03a2",
-                    "type": "leaf",
-                    "state": {
-                      "type": "custom-frames-toggl",
-                      "state": {}
-                    }
+                    "id": "d8215d289f9a0e4a",
+                    "type": "tabs",
+                    "dimension": 20.69701280227596,
+                    "children": [
+                      {
+                        "id": "a07d3cd3167fdabb",
+                        "type": "leaf",
+                        "state": {
+                          "type": "custom-frames-pomofocus",
+                          "state": {}
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "025d484632926d3c",
+                    "type": "tabs",
+                    "dimension": 79.30298719772404,
+                    "children": [
+                      {
+                        "id": "dbbc36f236ba03a2",
+                        "type": "leaf",
+                        "state": {
+                          "type": "custom-frames-toggl",
+                          "state": {}
+                        }
+                      }
+                    ]
                   }
-                ]
+                ],
+                "direction": "vertical"
               }
             ],
             "direction": "horizontal"
@@ -45,15 +69,8 @@
           {
             "id": "f5eba2aa3828108b",
             "type": "tabs",
+            "dimension": 36.64448669201521,
             "children": [
-              {
-                "id": "a07d3cd3167fdabb",
-                "type": "leaf",
-                "state": {
-                  "type": "custom-frames-pomofocus",
-                  "state": {}
-                }
-              },
               {
                 "id": "5ed5e0fa69533fbd",
                 "type": "leaf",
