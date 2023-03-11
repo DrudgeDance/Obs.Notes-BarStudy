@@ -4,34 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "02833592d8d5dca8",
+        "id": "3a1f1e4c1f97d152",
         "type": "split",
-        "dimension": 33.44647519582246,
         "children": [
           {
-            "id": "e2cc176d89724a7d",
-            "type": "tabs",
-            "dimension": 47.55145493257629,
-            "children": [
-              {
-                "id": "fb5b6cc869349dd0",
-                "type": "leaf",
-                "state": {
-                  "type": "custom-frames-barmax",
-                  "state": {}
-                }
-              }
-            ]
-          },
-          {
-            "id": "abf6730082feacd7",
+            "id": "34c39d5ffe4a9078",
             "type": "split",
-            "dimension": 52.4485450674237,
             "children": [
               {
-                "id": "7d113e0c107acc17",
+                "id": "e2cc176d89724a7d",
                 "type": "tabs",
-                "dimension": 59.59438377535101,
+                "children": [
+                  {
+                    "id": "fb5b6cc869349dd0",
+                    "type": "leaf",
+                    "state": {
+                      "type": "custom-frames-barmax",
+                      "state": {}
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "025d484632926d3c",
+                "type": "tabs",
                 "children": [
                   {
                     "id": "dbbc36f236ba03a2",
@@ -42,61 +38,34 @@
                     }
                   }
                 ]
-              },
-              {
-                "id": "c9e461a5a9309ba4",
-                "type": "tabs",
-                "dimension": 40.40561622464899,
-                "children": [
-                  {
-                    "id": "5f1d6bbe8122a816",
-                    "type": "leaf",
-                    "state": {
-                      "type": "empty",
-                      "state": {}
-                    }
-                  }
-                ]
               }
             ],
-            "direction": "vertical"
+            "direction": "horizontal"
+          },
+          {
+            "id": "f5eba2aa3828108b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a07d3cd3167fdabb",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-pomofocus",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5ed5e0fa69533fbd",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
           }
         ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "77b9bd652a78f28e",
-        "type": "tabs",
-        "dimension": 33.27676240208877,
-        "children": [
-          {
-            "id": "5b3ea1bcee25580a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "61ff73f16077c9d2",
-        "type": "tabs",
-        "dimension": 33.27676240208877,
-        "children": [
-          {
-            "id": "a07d3cd3167fdabb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -245,6 +214,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open Pomofocus": false,
       "obsidian-custom-frames:Open Zoom.us": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
