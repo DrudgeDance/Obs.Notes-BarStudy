@@ -57,24 +57,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "c72d23bb2e2deb7b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9ee56b6cb658d32d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test Test 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#wahoo/second",
+                "query": "tag:#wahoo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Test 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Test 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Test Test 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -203,6 +181,14 @@
         "dimension": 63.745019920318725,
         "children": [
           {
+            "id": "9ee56b6cb658d32d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "e31a64f634fc5f53",
             "type": "leaf",
             "state": {
@@ -214,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 706.5
+    "width": 945.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,14 +213,15 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "obsidian-custom-frames:Open BarMax": false,
       "obsidian-custom-frames:Open Toggl": false,
-      "obsidian-custom-frames:Open Brain.FM": false
+      "obsidian-custom-frames:Open Brain.FM": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "82c598f0464b65bc",
+  "active": "9ee56b6cb658d32d",
   "lastOpenFiles": [
+    "Test Test 1.md",
     "Test Test.md",
     "Templates.md",
-    "Test Test 1.md",
     "Test Test 1 2.md",
     "Test Test 2.md",
     "Notes - Civil Procedure.md",
