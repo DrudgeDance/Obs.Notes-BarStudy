@@ -9,7 +9,12 @@ Arthur Miller's Jurisdiction Checklist -- Seven Questions to ask:
 4. has there been proper service of process? [[Federal Rules Of Civil Procedure 4]]
 5. Does the court have [[Venue]]? Is the case properly located within the system?
 6. If the question puts into a state court can the case be [[removed to a federal court]]?  Can the case be [[remanded]] from the Federal Court once removed to a Federal Court?  (Removal is a one-way street from State Ct. to Federal Ct.). #Exam/LowProbability
-7. Have any of the preceding six issues been waived?  [[Jurisdiction - Subject Matter]] <u>CANNOT</u> be waived as it is foundational.
+7. Have any of the preceding six issues been waived?  [[Jurisdiction - Subject Matter]] <u>CANNOT</u> be waived as it is foundational.  
+	1. Have to assert many of these defenses
+	2. Some defenses are [time]
+	3. 
+	4. time-bound and waived if not asserted within a timeframe.
+	5. Some defenses are waived by conduct.
 
 Highly testable subject matter
 
