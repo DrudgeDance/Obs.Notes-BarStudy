@@ -232,6 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,6 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +260,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md"
+              }
             }
           },
           {
@@ -295,7 +299,7 @@
       "obsidian-custom-frames:Open Pomofocus": false
     }
   },
-  "active": "9ee56b6cb658d32d",
+  "active": "3a123aef3305046c",
   "lastOpenFiles": [
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Article III.md",
