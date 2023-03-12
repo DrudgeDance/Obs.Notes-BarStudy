@@ -10,14 +10,16 @@
           {
             "id": "24a5a37e40069919",
             "type": "tabs",
-            "dimension": 19.404466501240698,
+            "dimension": 17.89614441720526,
             "children": [
               {
                 "id": "9ee56b6cb658d32d",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "graph",
-                  "state": {}
+                  "state": {},
+                  "pinned": true
                 }
               }
             ]
@@ -25,75 +27,26 @@
           {
             "id": "d3b587f5c42732e0",
             "type": "tabs",
-            "dimension": 10.347394540942929,
+            "dimension": 11.856474258970358,
             "children": [
-              {
-                "id": "6289fef5eb66d29e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "README.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f518cf1e46e209be",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Jurisdiction - Personal.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "645fea57e0df95db",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Due Process.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e93989a4f554b9c1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes - Civil Procedure/Venue & Choice of Law/Venue.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
               {
                 "id": "b8b87b00417aa13a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Article III.md",
+                    "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           },
           {
             "id": "242aa50b0fb981a0",
             "type": "tabs",
-            "dimension": 10.347394540942929,
+            "dimension": 10.340985067974147,
             "children": [
               {
                 "id": "1377baf22a896962",
@@ -112,7 +65,7 @@
           {
             "id": "3cd269895996b0bf",
             "type": "split",
-            "dimension": 59.90074441687345,
+            "dimension": 59.90639625585024,
             "children": [
               {
                 "id": "d6203497e7c99eba",
