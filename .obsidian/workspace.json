@@ -147,13 +147,11 @@
                     }
                   ]
                 },
+                "pinned": true,
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "juggl_view",
+                  "state": {},
+                  "pinned": true
                 }
               }
             ],
@@ -511,6 +509,22 @@
               "type": "BC-tree",
               "state": {}
             }
+          },
+          {
+            "id": "fd60f61f7b6a574b",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "c0ef9883ae9e8ee2",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
           }
         ],
         "currentTab": 5
@@ -536,10 +550,11 @@
       "obsidian-custom-frames:Open Brain.FM": false,
       "obsidian-custom-frames:Open GitHub": false,
       "obsidian-custom-frames:Open Pomofocus": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "5a067cb4183a8755",
+  "active": "7ed576eb13773e5c",
   "lastOpenFiles": [
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
