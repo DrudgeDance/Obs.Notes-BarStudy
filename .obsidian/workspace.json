@@ -10,10 +10,35 @@
           {
             "id": "24a5a37e40069919",
             "type": "tabs",
-            "dimension": 18.36007130124777,
+            "dimension": 21.177075301978928,
             "children": [
               {
                 "id": "9ee56b6cb658d32d",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 1,
+                  "stack": [
+                    {
+                      "title": "Jurisdiction",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes - Civil Procedure/Jurisdiction/Jurisdiction.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              },
+              {
+                "id": "cb5219312e258daf",
                 "type": "leaf",
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -21,32 +46,23 @@
                     {
                       "state": "{}",
                       "eState": "{}"
-                    },
-                    {
-                      "title": "Graph view",
-                      "icon": "lucide-git-fork",
-                      "state": "{\"type\":\"graph\",\"state\":{},\"pinned\":true}",
-                      "eState": "{}"
                     }
                   ]
                 },
                 "pinned": true,
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
-                    "mode": "source",
-                    "source": false
-                  },
+                  "type": "juggl_view",
+                  "state": {},
                   "pinned": true
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "d3b587f5c42732e0",
             "type": "tabs",
-            "dimension": 7.419786096256685,
+            "dimension": 8.558211256746338,
             "children": [
               {
                 "id": "1377baf22a896962",
@@ -100,35 +116,9 @@
             ]
           },
           {
-            "id": "b5ae6ecdbf92db5f",
-            "type": "tabs",
-            "dimension": 13.302139037433156,
-            "children": [
-              {
-                "id": "cb5219312e258daf",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "pinned": true,
-                "state": {
-                  "type": "juggl_view",
-                  "state": {},
-                  "pinned": true
-                }
-              }
-            ]
-          },
-          {
             "id": "3cd269895996b0bf",
             "type": "split",
-            "dimension": 60.91800356506238,
+            "dimension": 70.26471344127474,
             "children": [
               {
                 "id": "d6203497e7c99eba",
@@ -165,9 +155,33 @@
                     "dimension": 47.24576271186441,
                     "children": [
                       {
+                        "id": "f8db1f7abd42c361",
+                        "type": "tabs",
+                        "dimension": 35.050251256281406,
+                        "children": [
+                          {
+                            "id": "833818dbf9dcd8b8",
+                            "type": "leaf",
+                            "pane-relief:history-v1": {
+                              "pos": 0,
+                              "stack": [
+                                {
+                                  "state": "{}",
+                                  "eState": "{}"
+                                }
+                              ]
+                            },
+                            "state": {
+                              "type": "custom-frames-juggl.io",
+                              "state": {}
+                            }
+                          }
+                        ]
+                      },
+                      {
                         "id": "9185b3d02f79856f",
                         "type": "tabs",
-                        "dimension": 35.51745254133497,
+                        "dimension": 17.3785594639866,
                         "children": [
                           {
                             "id": "a07d3cd3167fdabb",
@@ -191,7 +205,7 @@
                       {
                         "id": "f0b61bd89361c14e",
                         "type": "tabs",
-                        "dimension": 64.48254745866502,
+                        "dimension": 47.571189279731996,
                         "children": [
                           {
                             "id": "dbbc36f236ba03a2",
@@ -376,7 +390,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -402,7 +415,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -422,9 +434,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md"
-              }
+              "state": {}
             }
           },
           {
@@ -503,7 +513,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open Juggl.io": false,
       "obsidian-custom-frames:Open Zoom.us": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -519,14 +528,15 @@
       "obsidian-custom-frames:Open Brain.FM": false,
       "obsidian-custom-frames:Open GitHub": false,
       "obsidian-custom-frames:Open Pomofocus": false,
+      "obsidian-custom-frames:Open Juggl.io": false,
       "breadcrumbs:Breadcrumbs Visualisation": false,
       "juggl:Juggl global graph": false
     }
   },
-  "active": "cb5219312e258daf",
+  "active": "833818dbf9dcd8b8",
   "lastOpenFiles": [
-    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
+    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Article III.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Proper Notice.md",
     "Notes - Civil Procedure/Venue & Choice of Law/Venue.md",
