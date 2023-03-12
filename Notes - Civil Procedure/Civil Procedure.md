@@ -1,4 +1,2 @@
-[[Jurisdiction - Personal]]
-[[Jurisdiction - Supplemental]]
-[[Jurisdiction - Subject Matter]]
+[[Jurisdiction]]]
 [[Venue]]
