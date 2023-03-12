@@ -38,8 +38,45 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "f518cf1e46e209be",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Jurisdiction - Personal.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "645fea57e0df95db",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Due Process.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e93989a4f554b9c1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes - Civil Procedure/Venue & Choice of Law/Venue.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 3
           },
           {
             "id": "a9c227b8d47efdf9",
@@ -279,6 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes - Civil Procedure/Venue & Choice of Law/Venue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,6 +333,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes - Civil Procedure/Venue & Choice of Law/Venue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +344,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes - Civil Procedure/Venue & Choice of Law/Venue.md"
+              }
             }
           },
           {
@@ -342,13 +383,17 @@
       "obsidian-custom-frames:Open Pomofocus": false
     }
   },
-  "active": "9ee56b6cb658d32d",
+  "active": "e93989a4f554b9c1",
   "lastOpenFiles": [
+    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Due Process.md",
+    "Notes - Civil Procedure/Venue & Choice of Law/Venue.md",
+    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Proper Notice.md",
+    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Jurisdiction - Personal.md",
+    "README.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Article III.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Supplemental/Jurisdiction - Supplemental.md",
-    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Jurisdiction - Personal.md",
     "Notes - Civil Procedure/Trial, Appeal & Preclusion",
     "Notes - Civil Procedure/Discovery & Pre-trial Motions",
     "Notes - Civil Procedure/Joinder/Joinder of Parties",
@@ -357,7 +402,6 @@
     "Notes - Civil Procedure/Joinder",
     "Notes - Civil Procedure/Pleadings",
     "Notes - Civil Procedure/Venue & Choice of Law",
-    "README.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal",
     "Notes - Civil Procedure/Jurisdiction/Untitled 1.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Supplemental/Jur.md",
