@@ -7,7 +7,8 @@ Arthur Miller's Jurisdiction Checklist -- Seven Questions to ask:
 2. Does the court have [[Jurisdiction - Personal]] or [[Jurisdiction - Property]] over the defendant? [[Due Process]]
 3. has the defendant been given notice and an opportunity to hear and be heard? [[Due Process]]
 4. has there been proper service of process? [[Federal Rules Of Civil Procedure 4]]
-5. Does 
+5. Does the court have [[Venue]]? Is the case properly located within the system?
+6. If the question puts into a state court can the case be [[removed to a federal court]]?  Can the case be [[remanded]] from the Federal Court ?
 
 Highly testable subject matter
 
