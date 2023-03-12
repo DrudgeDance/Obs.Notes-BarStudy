@@ -89,12 +89,23 @@
       "customCss": ""
     },
     {
-      "url": "",
+      "url": "https://vim-adventures.com/",
       "displayName": "VIM Adv.",
-      "icon": "",
+      "icon": "code",
       "hideOnMobile": true,
-      "addRibbonIcon": false,
-      "openInCenter": false,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "http://www.vimgenius.com/",
+      "displayName": "VIM Genius",
+      "icon": "code",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
       "zoomLevel": 1,
       "forceIframe": false,
       "customCss": ""

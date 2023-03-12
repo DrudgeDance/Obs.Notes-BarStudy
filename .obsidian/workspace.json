@@ -118,7 +118,7 @@
           {
             "id": "3cd269895996b0bf",
             "type": "split",
-            "dimension": 57.655449075105864,
+            "dimension": 57.65544907510586,
             "children": [
               {
                 "id": "d6203497e7c99eba",
@@ -194,6 +194,23 @@
                             }
                           },
                           {
+                            "id": "d83fdf91897a6114",
+                            "type": "leaf",
+                            "pane-relief:history-v1": {
+                              "pos": 0,
+                              "stack": [
+                                {
+                                  "state": "{}",
+                                  "eState": "{}"
+                                }
+                              ]
+                            },
+                            "state": {
+                              "type": "custom-frames-vim-adv.",
+                              "state": {}
+                            }
+                          },
+                          {
                             "id": "a93fbaa4f2158f42",
                             "type": "leaf",
                             "pane-relief:history-v1": {
@@ -206,12 +223,8 @@
                               ]
                             },
                             "state": {
-                              "type": "markdown",
-                              "state": {
-                                "file": "Notes - Civil Procedure/Untitled.md",
-                                "mode": "source",
-                                "source": false
-                              }
+                              "type": "custom-frames-vim-genius",
+                              "state": {}
                             }
                           }
                         ],
@@ -429,7 +442,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes - Civil Procedure/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -455,7 +467,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes - Civil Procedure/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -475,9 +486,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes - Civil Procedure/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -574,6 +583,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open VIM Adv.": false,
+      "obsidian-custom-frames:Open VIM Genius": false,
       "obsidian-custom-frames:Open Zoom.us": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -595,7 +606,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "a93fbaa4f2158f42",
+  "active": "d83fdf91897a6114",
   "lastOpenFiles": [
     "Notes - Civil Procedure/Untitled.md",
     "Templates/Sample Note.md",
