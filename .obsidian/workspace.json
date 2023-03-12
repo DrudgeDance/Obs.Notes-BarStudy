@@ -279,7 +279,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Article III.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +295,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Article III.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,9 +305,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Article III.md"
-              }
+              "state": {}
             }
           },
           {
@@ -346,8 +342,9 @@
       "obsidian-custom-frames:Open Pomofocus": false
     }
   },
-  "active": "b8b87b00417aa13a",
+  "active": "9ee56b6cb658d32d",
   "lastOpenFiles": [
+    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Article III.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
     "Notes - Civil Procedure/Civil Procedure.md",
     "Notes - Civil Procedure/Venue & Choice of Law/Venue.md",
@@ -359,7 +356,6 @@
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Proper Notice.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Jurisdiction - Personal.md",
     "README.md",
-    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Article III.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Supplemental/Jurisdiction - Supplemental.md",
     "Notes - Civil Procedure/Trial, Appeal & Preclusion",
     "Notes - Civil Procedure/Discovery & Pre-trial Motions",
