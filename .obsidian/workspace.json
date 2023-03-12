@@ -50,11 +50,52 @@
                 "id": "e005783d1c122b49",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a8df53ee1db882f0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Jurisdiction - Personal.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "97301afb31861d5d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Untitled.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "691d8181fec0a66b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Untitled.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           },
           {
             "id": "3cd269895996b0bf",
@@ -226,6 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,6 +284,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +295,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Untitled.md"
+              }
             }
           },
           {
@@ -289,8 +334,14 @@
       "obsidian-custom-frames:Open Pomofocus": false
     }
   },
-  "active": "3a123aef3305046c",
+  "active": "691d8181fec0a66b",
   "lastOpenFiles": [
+    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Jurisdiction - Personal.md",
+    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Supplemental/Untitled.md",
+    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Untitled.md",
+    "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
+    "Notes - Civil Procedure/Trial, Appeal & Preclusion",
+    "Notes - Civil Procedure/Discovery & Pre-trial Motions",
     "Notes - Civil Procedure/Joinder/Joinder of Parties",
     "Notes - Civil Procedure/Joinder/Joinder of Claims/Untitled",
     "Notes - Civil Procedure/Joinder/Joinder of Claims",
@@ -298,15 +349,11 @@
     "Notes - Civil Procedure/Pleadings",
     "Notes - Civil Procedure/Venue & Choice of Law",
     "README.md",
-    "Notes - Civil Procedure/Jurisdiction/Untitled.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal",
     "Notes - Civil Procedure/Jurisdiction/Untitled 1.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Supplemental/Jur.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Supplemental",
     "a.md",
-    "Notes - Civil Procedure/Jurisdiction",
-    "Attachments",
-    "Templates",
     "Templates.md",
     "Notes - Torts/Notes - Torts.md",
     "Notes - Civil Procedure/Notes - Civil Procedure.md",
