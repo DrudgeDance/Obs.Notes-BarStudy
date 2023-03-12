@@ -4,5 +4,9 @@
   "obsidian-to-anki-plugin",
   "table-editor-obsidian",
   "templater-obsidian",
-  "persistent-graph"
+  "persistent-graph",
+  "breadcrumbs",
+  "supercharged-links-obsidian",
+  "pane-relief",
+  "obsidian-hover-editor"
 ]
