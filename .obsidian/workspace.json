@@ -47,7 +47,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
+                    "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
                     "mode": "source",
                     "source": false
                   }
@@ -226,7 +226,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +242,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,9 +252,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md"
-              }
+              "state": {}
             }
           },
           {
@@ -293,7 +289,7 @@
       "obsidian-custom-frames:Open Pomofocus": false
     }
   },
-  "active": "1377baf22a896962",
+  "active": "9ee56b6cb658d32d",
   "lastOpenFiles": [
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
