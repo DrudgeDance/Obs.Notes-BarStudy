@@ -255,7 +255,7 @@
       {
         "id": "01bd32a8ae23a0e0",
         "type": "tabs",
-        "dimension": 57.70833333333333,
+        "dimension": 73.19444444444444,
         "children": [
           {
             "id": "3a123aef3305046c",
@@ -295,7 +295,7 @@
       {
         "id": "4602c57d97be410d",
         "type": "tabs",
-        "dimension": 42.291666666666664,
+        "dimension": 26.805555555555554,
         "children": [
           {
             "id": "c0ce6e06a9054baa",
@@ -328,7 +328,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -345,7 +344,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -356,9 +354,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md"
-              }
+              "state": {}
             }
           },
           {
@@ -395,9 +391,10 @@
       "obsidian-custom-frames:Open Pomofocus": false
     }
   },
-  "active": "b8b87b00417aa13a",
+  "active": "9ee56b6cb658d32d",
   "lastOpenFiles": [
     "Notes - Civil Procedure/Civil Procedure.md",
+    "Notes - Civil Procedure/Jurisdiction/Federal Rules Of Civil Procedure 4.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Property/Jurisdiction - Property.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Property",
