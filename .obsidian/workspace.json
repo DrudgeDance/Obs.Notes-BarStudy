@@ -192,9 +192,30 @@
                               "type": "custom-frames-templater",
                               "state": {}
                             }
+                          },
+                          {
+                            "id": "a93fbaa4f2158f42",
+                            "type": "leaf",
+                            "pane-relief:history-v1": {
+                              "pos": 0,
+                              "stack": [
+                                {
+                                  "state": "{}",
+                                  "eState": "{}"
+                                }
+                              ]
+                            },
+                            "state": {
+                              "type": "markdown",
+                              "state": {
+                                "file": "Notes - Civil Procedure/Untitled.md",
+                                "mode": "source",
+                                "source": false
+                              }
+                            }
                           }
                         ],
-                        "currentTab": 1
+                        "currentTab": 2
                       },
                       {
                         "id": "9185b3d02f79856f",
@@ -408,6 +429,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes - Civil Procedure/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -433,6 +455,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes - Civil Procedure/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -452,7 +475,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes - Civil Procedure/Untitled.md"
+              }
             }
           },
           {
@@ -509,6 +534,15 @@
           {
             "id": "fd60f61f7b6a574b",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "juggl_nodes",
               "state": {}
@@ -517,6 +551,15 @@
           {
             "id": "c0ef9883ae9e8ee2",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "juggl_style",
               "state": {}
@@ -552,8 +595,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "7d1887f13ff1ce11",
+  "active": "a93fbaa4f2158f42",
   "lastOpenFiles": [
+    "Notes - Civil Procedure/Untitled.md",
+    "Templates/Sample Note.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Article III.md",
