@@ -16,8 +16,12 @@
                 "id": "9ee56b6cb658d32d",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ]
@@ -328,6 +332,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -344,6 +349,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +360,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md"
+              }
             }
           },
           {
