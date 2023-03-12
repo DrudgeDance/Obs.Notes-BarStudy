@@ -16,12 +16,8 @@
                 "id": "9ee56b6cb658d32d",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "graph",
+                  "state": {}
                 }
               }
             ]
@@ -85,7 +81,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes - Civil Procedure/Civil Procedure.md",
+                    "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
                     "mode": "source",
                     "source": false
                   }
@@ -399,11 +395,13 @@
       "obsidian-custom-frames:Open Pomofocus": false
     }
   },
-  "active": "9ee56b6cb658d32d",
+  "active": "b8b87b00417aa13a",
   "lastOpenFiles": [
     "Notes - Civil Procedure/Civil Procedure.md",
-    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
+    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Property/Jurisdiction - Property.md",
+    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Property",
+    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
     "Notes - Civil Procedure/Venue & Choice of Law/Venue.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Due Process.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Proper Notice.md",
@@ -422,7 +420,6 @@
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal",
     "Notes - Civil Procedure/Jurisdiction/Untitled 1.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Supplemental/Jur.md",
-    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Supplemental",
     "a.md",
     "Templates.md",
     "Notes - Torts/Notes - Torts.md",
