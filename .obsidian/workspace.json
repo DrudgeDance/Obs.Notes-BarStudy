@@ -10,7 +10,7 @@
           {
             "id": "24a5a37e40069919",
             "type": "tabs",
-            "dimension": 21.172275462447068,
+            "dimension": 21.17227546244707,
             "children": [
               {
                 "id": "9ee56b6cb658d32d",
@@ -62,7 +62,7 @@
           {
             "id": "d3b587f5c42732e0",
             "type": "tabs",
-            "dimension": 21.172275462447068,
+            "dimension": 21.17227546244707,
             "children": [
               {
                 "id": "1377baf22a896962",
@@ -118,7 +118,7 @@
           {
             "id": "3cd269895996b0bf",
             "type": "split",
-            "dimension": 57.65544907510586,
+            "dimension": 57.655449075105864,
             "children": [
               {
                 "id": "d6203497e7c99eba",
@@ -157,7 +157,7 @@
                       {
                         "id": "f8db1f7abd42c361",
                         "type": "tabs",
-                        "dimension": 35.050251256281406,
+                        "dimension": 36.75344563552833,
                         "children": [
                           {
                             "id": "833818dbf9dcd8b8",
@@ -175,13 +175,31 @@
                               "type": "custom-frames-juggl.io",
                               "state": {}
                             }
+                          },
+                          {
+                            "id": "bee2af3bd5dc314e",
+                            "type": "leaf",
+                            "pane-relief:history-v1": {
+                              "pos": 0,
+                              "stack": [
+                                {
+                                  "state": "{}",
+                                  "eState": "{}"
+                                }
+                              ]
+                            },
+                            "state": {
+                              "type": "custom-frames-templater",
+                              "state": {}
+                            }
                           }
-                        ]
+                        ],
+                        "currentTab": 1
                       },
                       {
                         "id": "9185b3d02f79856f",
                         "type": "tabs",
-                        "dimension": 17.3785594639866,
+                        "dimension": 22.00102092904543,
                         "children": [
                           {
                             "id": "a07d3cd3167fdabb",
@@ -205,7 +223,7 @@
                       {
                         "id": "f0b61bd89361c14e",
                         "type": "tabs",
-                        "dimension": 47.571189279731996,
+                        "dimension": 41.24553343542624,
                         "children": [
                           {
                             "id": "dbbc36f236ba03a2",
@@ -529,11 +547,12 @@
       "obsidian-custom-frames:Open GitHub": false,
       "obsidian-custom-frames:Open Pomofocus": false,
       "obsidian-custom-frames:Open Juggl.io": false,
+      "obsidian-custom-frames:Open Templater": false,
       "breadcrumbs:Breadcrumbs Visualisation": false,
       "juggl:Juggl global graph": false
     }
   },
-  "active": "cb5219312e258daf",
+  "active": "bee2af3bd5dc314e",
   "lastOpenFiles": [
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
