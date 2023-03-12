@@ -1,1 +1,22 @@
-{}
+{
+  "persistent-graph:save-node-positions": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "persistent-graph:restore-node-positions": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ]
+}

@@ -3,5 +3,6 @@
   "obsidian-git",
   "obsidian-to-anki-plugin",
   "table-editor-obsidian",
-  "templater-obsidian"
+  "templater-obsidian",
+  "persistent-graph"
 ]
