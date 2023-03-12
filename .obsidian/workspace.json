@@ -10,7 +10,7 @@
           {
             "id": "24a5a37e40069919",
             "type": "tabs",
-            "dimension": 18.36416313795409,
+            "dimension": 18.36007130124777,
             "children": [
               {
                 "id": "9ee56b6cb658d32d",
@@ -46,65 +46,8 @@
           {
             "id": "d3b587f5c42732e0",
             "type": "tabs",
-            "dimension": 14.82059282371295,
+            "dimension": 7.419786096256685,
             "children": [
-              {
-                "id": "b8b87b00417aa13a",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Jurisdiction",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes - Civil Procedure/Jurisdiction/Jurisdiction.md\",\"mode\":\"source\",\"source\":false}}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":30},\"to\":{\"line\":19,\"ch\":30}}}"
-                    },
-                    {
-                      "title": "Article III",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Article III.md\",\"mode\":\"source\",\"source\":false}}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                    },
-                    {
-                      "title": "Jurisdiction",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes - Civil Procedure/Jurisdiction/Jurisdiction.md\",\"mode\":\"source\",\"source\":false}}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":30},\"to\":{\"line\":16,\"ch\":30}}}"
-                    },
-                    {
-                      "title": "Civil Procedure",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes - Civil Procedure/Civil Procedure.md\",\"mode\":\"source\",\"source\":false}}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":9},\"to\":{\"line\":1,\"ch\":9}}}"
-                    },
-                    {
-                      "title": "Jurisdiction - Subject Matter",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md\",\"mode\":\"source\",\"source\":false}}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":15},\"to\":{\"line\":3,\"ch\":15}}}"
-                    },
-                    {
-                      "title": "Civil Procedure",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes - Civil Procedure/Civil Procedure.md\",\"mode\":\"source\",\"source\":false}}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":9},\"to\":{\"line\":3,\"ch\":9}}}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Proper Notice.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
               {
                 "id": "1377baf22a896962",
                 "type": "leaf",
@@ -154,13 +97,38 @@
                   "pinned": true
                 }
               }
-            ],
-            "currentTab": 1
+            ]
+          },
+          {
+            "id": "b5ae6ecdbf92db5f",
+            "type": "tabs",
+            "dimension": 13.302139037433156,
+            "children": [
+              {
+                "id": "cb5219312e258daf",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "pinned": true,
+                "state": {
+                  "type": "juggl_view",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ]
           },
           {
             "id": "3cd269895996b0bf",
             "type": "split",
-            "dimension": 66.81524403833296,
+            "dimension": 60.91800356506238,
             "children": [
               {
                 "id": "d6203497e7c99eba",
@@ -535,6 +503,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open Juggl.io": false,
       "obsidian-custom-frames:Open Zoom.us": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -554,16 +523,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "7ed576eb13773e5c",
+  "active": "cb5219312e258daf",
   "lastOpenFiles": [
-    "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
-    "Notes - Civil Procedure/Jurisdiction/arising under.md",
-    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Proper Notice.md",
-    "Notes - Civil Procedure/Notes - Civil Procedure.md",
+    "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Article III.md",
-    "Notes - Civil Procedure/Civil Procedure.md",
+    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Proper Notice.md",
     "Notes - Civil Procedure/Venue & Choice of Law/Venue.md",
+    "Notes - Civil Procedure/Jurisdiction/arising under.md",
+    "Notes - Civil Procedure/Notes - Civil Procedure.md",
+    "Notes - Civil Procedure/Civil Procedure.md",
     "Notes - Civil Procedure/Jurisdiction/Federal Rules Of Civil Procedure 4.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Property/Jurisdiction - Property.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Property",

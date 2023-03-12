@@ -65,6 +65,17 @@
       "zoomLevel": 1,
       "forceIframe": false,
       "customCss": ""
+    },
+    {
+      "url": "https://juggl.io/Juggl",
+      "displayName": "Juggl.io",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
     }
   ],
   "padding": 5
