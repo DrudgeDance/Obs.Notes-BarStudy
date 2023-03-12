@@ -10,7 +10,7 @@
           {
             "id": "24a5a37e40069919",
             "type": "tabs",
-            "dimension": 21.177075301978928,
+            "dimension": 21.172275462447068,
             "children": [
               {
                 "id": "9ee56b6cb658d32d",
@@ -62,7 +62,7 @@
           {
             "id": "d3b587f5c42732e0",
             "type": "tabs",
-            "dimension": 8.558211256746338,
+            "dimension": 21.172275462447068,
             "children": [
               {
                 "id": "1377baf22a896962",
@@ -118,7 +118,7 @@
           {
             "id": "3cd269895996b0bf",
             "type": "split",
-            "dimension": 70.26471344127474,
+            "dimension": 57.65544907510586,
             "children": [
               {
                 "id": "d6203497e7c99eba",
@@ -533,7 +533,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "833818dbf9dcd8b8",
+  "active": "cb5219312e258daf",
   "lastOpenFiles": [
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
