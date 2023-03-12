@@ -10,7 +10,7 @@
           {
             "id": "24a5a37e40069919",
             "type": "tabs",
-            "dimension": 14.46761800219539,
+            "dimension": 20.432692307692307,
             "children": [
               {
                 "id": "9ee56b6cb658d32d",
@@ -25,7 +25,7 @@
           {
             "id": "d3b587f5c42732e0",
             "type": "tabs",
-            "dimension": 20.30735455543359,
+            "dimension": 14.335664335664337,
             "children": [
               {
                 "id": "6289fef5eb66d29e",
@@ -74,14 +74,26 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "b8b87b00417aa13a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           },
           {
             "id": "a9c227b8d47efdf9",
             "type": "tabs",
-            "dimension": 19.209659714599344,
+            "dimension": 19.208916083916083,
             "children": [
               {
                 "id": "e005783d1c122b49",
@@ -149,7 +161,7 @@
           {
             "id": "3cd269895996b0bf",
             "type": "split",
-            "dimension": 46.015367727771675,
+            "dimension": 46.02272727272727,
             "children": [
               {
                 "id": "d6203497e7c99eba",
@@ -316,7 +328,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes - Civil Procedure/Venue & Choice of Law/Venue.md",
+                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,7 +345,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes - Civil Procedure/Venue & Choice of Law/Venue.md",
+                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -345,7 +357,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes - Civil Procedure/Venue & Choice of Law/Venue.md"
+                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md"
               }
             }
           },
@@ -383,10 +395,11 @@
       "obsidian-custom-frames:Open Pomofocus": false
     }
   },
-  "active": "e93989a4f554b9c1",
+  "active": "b8b87b00417aa13a",
   "lastOpenFiles": [
-    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Due Process.md",
+    "Notes - Civil Procedure/Civil Procedure.md",
     "Notes - Civil Procedure/Venue & Choice of Law/Venue.md",
+    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Due Process.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Proper Notice.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Jurisdiction - Personal.md",
     "README.md",
