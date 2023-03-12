@@ -101,7 +101,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "arising under.md",
+                    "file": "Notes - Civil Procedure/Jurisdiction/arising under.md",
                     "mode": "source",
                     "source": false
                   }
@@ -279,7 +279,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arising under.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +295,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arising under.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,9 +305,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "arising under.md"
-              }
+              "state": {}
             }
           },
           {
@@ -346,10 +342,10 @@
       "obsidian-custom-frames:Open Pomofocus": false
     }
   },
-  "active": "1377baf22a896962",
+  "active": "9ee56b6cb658d32d",
   "lastOpenFiles": [
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Article III.md",
-    "arising under.md",
+    "Notes - Civil Procedure/Jurisdiction/arising under.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
     "Notes - Civil Procedure/Civil Procedure.md",
     "Notes - Civil Procedure/Venue & Choice of Law/Venue.md",
