@@ -10,7 +10,7 @@
           {
             "id": "24a5a37e40069919",
             "type": "tabs",
-            "dimension": 17.89614441720526,
+            "dimension": 18.36416313795409,
             "children": [
               {
                 "id": "9ee56b6cb658d32d",
@@ -27,7 +27,7 @@
           {
             "id": "d3b587f5c42732e0",
             "type": "tabs",
-            "dimension": 11.856474258970358,
+            "dimension": 14.82059282371295,
             "children": [
               {
                 "id": "b8b87b00417aa13a",
@@ -40,32 +40,26 @@
                     "source": false
                   }
                 }
-              }
-            ]
-          },
-          {
-            "id": "242aa50b0fb981a0",
-            "type": "tabs",
-            "dimension": 10.340985067974147,
-            "children": [
+              },
               {
                 "id": "1377baf22a896962",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes - Civil Procedure/Jurisdiction/arising under.md",
+                    "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "3cd269895996b0bf",
             "type": "split",
-            "dimension": 59.90639625585024,
+            "dimension": 66.81524403833296,
             "children": [
               {
                 "id": "d6203497e7c99eba",
@@ -232,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes - Civil Procedure/Jurisdiction/arising under.md",
+                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes - Civil Procedure/Jurisdiction/arising under.md",
+                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes - Civil Procedure/Jurisdiction/arising under.md"
+                "file": "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md"
               }
             }
           },
@@ -301,21 +295,21 @@
   },
   "active": "1377baf22a896962",
   "lastOpenFiles": [
-    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Proper Notice.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
+    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
+    "Notes - Civil Procedure/Jurisdiction/arising under.md",
+    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Proper Notice.md",
     "Notes - Civil Procedure/Notes - Civil Procedure.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Article III.md",
-    "Notes - Civil Procedure/Jurisdiction/arising under.md",
     "Notes - Civil Procedure/Civil Procedure.md",
     "Notes - Civil Procedure/Venue & Choice of Law/Venue.md",
     "Notes - Civil Procedure/Jurisdiction/Federal Rules Of Civil Procedure 4.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Property/Jurisdiction - Property.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Property",
-    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Due Process.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal/Jurisdiction - Personal.md",
     "README.md",
-    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Supplemental/Jurisdiction - Supplemental.md",
+    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Supplemental/Jurisdiction - Supplemental.md",
     "Notes - Civil Procedure/Trial, Appeal & Preclusion",
     "Notes - Civil Procedure/Discovery & Pre-trial Motions",
     "Notes - Civil Procedure/Joinder/Joinder of Parties",
