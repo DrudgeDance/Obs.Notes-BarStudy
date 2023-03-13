@@ -55,9 +55,26 @@
                   "state": {},
                   "pinned": true
                 }
+              },
+              {
+                "id": "7a297fc9275fa70b",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "custom-frames-breadcrumbs",
+                  "state": {}
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "d3b587f5c42732e0",
@@ -260,26 +277,9 @@
                               "type": "custom-frames-vim-genius",
                               "state": {}
                             }
-                          },
-                          {
-                            "id": "7a297fc9275fa70b",
-                            "type": "leaf",
-                            "pane-relief:history-v1": {
-                              "pos": 0,
-                              "stack": [
-                                {
-                                  "state": "{}",
-                                  "eState": "{}"
-                                }
-                              ]
-                            },
-                            "state": {
-                              "type": "custom-frames-breadcrumbs",
-                              "state": {}
-                            }
                           }
                         ],
-                        "currentTab": 4
+                        "currentTab": 3
                       },
                       {
                         "id": "9185b3d02f79856f",
