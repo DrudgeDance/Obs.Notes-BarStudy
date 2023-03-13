@@ -10,7 +10,7 @@
           {
             "id": "24a5a37e40069919",
             "type": "tabs",
-            "dimension": 21.17227546244707,
+            "dimension": 21.172275462447075,
             "children": [
               {
                 "id": "9ee56b6cb658d32d",
@@ -62,7 +62,7 @@
           {
             "id": "d3b587f5c42732e0",
             "type": "tabs",
-            "dimension": 21.17227546244707,
+            "dimension": 21.172275462447075,
             "children": [
               {
                 "id": "1377baf22a896962",
@@ -118,7 +118,7 @@
           {
             "id": "3cd269895996b0bf",
             "type": "split",
-            "dimension": 57.65544907510586,
+            "dimension": 57.65544907510585,
             "children": [
               {
                 "id": "d6203497e7c99eba",
@@ -226,9 +226,26 @@
                               "type": "custom-frames-vim-genius",
                               "state": {}
                             }
+                          },
+                          {
+                            "id": "7a297fc9275fa70b",
+                            "type": "leaf",
+                            "pane-relief:history-v1": {
+                              "pos": 0,
+                              "stack": [
+                                {
+                                  "state": "{}",
+                                  "eState": "{}"
+                                }
+                              ]
+                            },
+                            "state": {
+                              "type": "custom-frames-breadcrumbs",
+                              "state": {}
+                            }
                           }
                         ],
-                        "currentTab": 2
+                        "currentTab": 4
                       },
                       {
                         "id": "9185b3d02f79856f",
@@ -600,13 +617,14 @@
       "obsidian-custom-frames:Open Brain.FM": false,
       "obsidian-custom-frames:Open GitHub": false,
       "obsidian-custom-frames:Open Pomofocus": false,
+      "obsidian-custom-frames:Open BreadCrumbs": false,
       "obsidian-custom-frames:Open Juggl.io": false,
       "obsidian-custom-frames:Open Templater": false,
       "breadcrumbs:Breadcrumbs Visualisation": false,
       "juggl:Juggl global graph": false
     }
   },
-  "active": "b0ae091f5dd8cb67",
+  "active": "7a297fc9275fa70b",
   "lastOpenFiles": [
     "Notes - Civil Procedure/Untitled.md",
     "Templates/Sample Note.md",
