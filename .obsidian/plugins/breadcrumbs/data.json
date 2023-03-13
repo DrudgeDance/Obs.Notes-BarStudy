@@ -54,9 +54,9 @@
   "showRefreshNotice": true,
   "showImpliedRelations": true,
   "showTrail": true,
-  "showGrid": true,
+  "showGrid": false,
   "showJuggl": false,
-  "showPrevNext": true,
+  "showPrevNext": false,
   "sortByNameShowAlias": false,
   "squareDirectionsOrder": [
     0,
@@ -65,13 +65,7 @@
     3,
     4
   ],
-  "limitTrailCheckboxes": [
-    "up",
-    "same",
-    "down",
-    "next",
-    "prev"
-  ],
+  "limitTrailCheckboxes": [],
   "limitJumpToFirstFields": [],
   "showAll": "All",
   "noPathMessage": "This note has no real or implied parents",
