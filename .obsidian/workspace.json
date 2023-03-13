@@ -131,7 +131,7 @@
                 }
               },
               {
-                "id": "44b29f84181d463f",
+                "id": "88982db748e1fbcd",
                 "type": "leaf",
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -139,32 +139,14 @@
                     {
                       "state": "{}",
                       "eState": "{}"
-                    },
-                    {
-                      "title": "bc-template",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/bc-template.md\",\"mode\":\"source\",\"source\":false}}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                    },
-                    {
-                      "title": "Sample Note",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Sample Note.md\",\"mode\":\"source\",\"source\":false}}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":43},\"to\":{\"line\":0,\"ch\":0}}}"
-                    },
-                    {
-                      "title": "Templates",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates.md\",\"mode\":\"source\",\"source\":false}}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":3},\"to\":{\"line\":7,\"ch\":3}}}"
                     }
                   ]
                 },
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes Real Property/Untitled.md",
-                    "mode": "preview",
+                    "file": "Untitled.md",
+                    "mode": "source",
                     "source": false
                   }
                 }
@@ -542,7 +524,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes Real Property/Untitled.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -568,7 +550,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes Real Property/Untitled.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -589,7 +571,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes Real Property/Untitled.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -711,11 +693,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "44b29f84181d463f",
+  "active": "88982db748e1fbcd",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Notes Real Property/Untitled.md",
     "Templates/bc-template.md",
     "Templates/Sample Note.md",
-    "Notes Real Property/Untitled.md",
     "Templates.md",
     "Notes - Civil Procedure/Untitled.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
@@ -747,7 +730,6 @@
     "a.md",
     "Notes - Torts/Notes - Torts.md",
     "Notes - Constitutional Law/Notes - Constitutional Law.md",
-    "Test Test 2.md",
-    "Test Test 1 2.md"
+    "Test Test 2.md"
   ]
 }
