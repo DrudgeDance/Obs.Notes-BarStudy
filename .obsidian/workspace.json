@@ -208,7 +208,7 @@
                       {
                         "id": "f8db1f7abd42c361",
                         "type": "tabs",
-                        "dimension": 38.78429263044648,
+                        "dimension": 46.51977966950426,
                         "children": [
                           {
                             "id": "833818dbf9dcd8b8",
@@ -279,12 +279,12 @@
                             }
                           }
                         ],
-                        "currentTab": 3
+                        "currentTab": 1
                       },
                       {
                         "id": "9185b3d02f79856f",
                         "type": "tabs",
-                        "dimension": 20.494889725658958,
+                        "dimension": 12.769153730595894,
                         "children": [
                           {
                             "id": "a07d3cd3167fdabb",
@@ -308,7 +308,7 @@
                       {
                         "id": "f0b61bd89361c14e",
                         "type": "tabs",
-                        "dimension": 40.72081764389457,
+                        "dimension": 40.71106659989985,
                         "children": [
                           {
                             "id": "dbbc36f236ba03a2",
@@ -705,7 +705,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "44b29f84181d463f",
+  "active": "7d1887f13ff1ce11",
   "lastOpenFiles": [
     "Templates/Sample Note.md",
     "Templates.md",
