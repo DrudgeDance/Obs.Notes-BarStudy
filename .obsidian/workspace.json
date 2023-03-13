@@ -141,6 +141,66 @@
                       "eState": "{}"
                     },
                     {
+                      "title": "Graph view",
+                      "icon": "lucide-git-fork",
+                      "state": "{\"type\":\"graph\",\"state\":{}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "d",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"d.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "c",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"c.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "b",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"b.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "a",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"a.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "d",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"d.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "c",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"c.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "b",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"b.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "a",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"a.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Graph view",
+                      "icon": "lucide-git-fork",
+                      "state": "{\"type\":\"graph\",\"state\":{}}",
+                      "eState": "{}"
+                    },
+                    {
                       "title": "bc-template",
                       "icon": "lucide-file",
                       "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/bc-template.md\",\"mode\":\"source\",\"source\":false}}",
@@ -149,8 +209,12 @@
                   ]
                 },
                 "state": {
-                  "type": "graph",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "c.md",
+                    "mode": "preview",
+                    "source": false
+                  }
                 }
               }
             ],
@@ -483,6 +547,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -508,6 +573,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -527,7 +593,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "c.md"
+              }
             }
           },
           {
@@ -650,11 +718,11 @@
   },
   "active": "fd9e46cdddd0c431",
   "lastOpenFiles": [
-    "2023-03-12.md",
     "d.md",
     "c.md",
     "b.md",
     "a.md",
+    "2023-03-12.md",
     "Templates/bc-template.md",
     "Templates/Sample Note.md",
     "Templates.md",
