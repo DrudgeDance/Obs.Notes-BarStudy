@@ -141,6 +141,12 @@
                       "eState": "{}"
                     },
                     {
+                      "title": "bc-template",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/bc-template.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                    },
+                    {
                       "title": "Sample Note",
                       "icon": "lucide-file",
                       "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Sample Note.md\",\"mode\":\"source\",\"source\":false}}",
@@ -157,8 +163,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Templates/bc-template.md",
-                    "mode": "source",
+                    "file": "Notes Real Property/Untitled.md",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -536,7 +542,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/bc-template.md",
+                "file": "Notes Real Property/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -562,7 +568,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/bc-template.md",
+                "file": "Notes Real Property/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -583,7 +589,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/bc-template.md"
+                "file": "Notes Real Property/Untitled.md"
               }
             }
           },
@@ -705,11 +711,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "7d1887f13ff1ce11",
+  "active": "44b29f84181d463f",
   "lastOpenFiles": [
-    "Templates/Sample Note.md",
-    "Templates.md",
     "Templates/bc-template.md",
+    "Templates/Sample Note.md",
+    "Notes Real Property/Untitled.md",
+    "Templates.md",
     "Notes - Civil Procedure/Untitled.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
@@ -741,7 +748,6 @@
     "Notes - Torts/Notes - Torts.md",
     "Notes - Constitutional Law/Notes - Constitutional Law.md",
     "Test Test 2.md",
-    "Test Test 1 2.md",
-    "Test Test 1.md"
+    "Test Test 1 2.md"
   ]
 }
