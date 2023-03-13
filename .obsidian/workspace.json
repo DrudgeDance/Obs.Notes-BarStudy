@@ -141,6 +141,48 @@
                       "eState": "{}"
                     },
                     {
+                      "title": "c",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"c.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "b",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"b.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "a",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"a.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "bc-template",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/bc-template.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Sample Note",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Sample Note.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":43},\"to\":{\"line\":11,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "bc-template",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/bc-template.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Sample Note",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Sample Note.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":43},\"to\":{\"line\":13,\"ch\":43}}}"
+                    },
+                    {
                       "title": "Templates",
                       "icon": "lucide-file",
                       "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates.md\",\"mode\":\"source\",\"source\":false}}",
@@ -175,7 +217,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Templates/Sample Note.md",
+                    "file": "d.md",
                     "mode": "source",
                     "source": false
                   }
@@ -297,7 +339,7 @@
                             }
                           }
                         ],
-                        "currentTab": 1
+                        "currentTab": 3
                       },
                       {
                         "id": "9185b3d02f79856f",
@@ -554,7 +596,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Sample Note.md",
+                "file": "d.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -580,7 +622,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Sample Note.md",
+                "file": "d.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -601,7 +643,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Sample Note.md"
+                "file": "d.md"
               }
             }
           },
@@ -723,15 +765,19 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "88982db748e1fbcd",
+  "active": "a93fbaa4f2158f42",
   "lastOpenFiles": [
+    "c.md",
+    "d.md",
+    "b.md",
+    "a.md",
+    "Templates/bc-template.md",
+    "Templates/Sample Note.md",
     "Templates.md",
     "Untitled.md",
     "Notes - Civil Procedure/Untitled.md",
     "Templates 1.md",
     "Notes Real Property/Untitled.md",
-    "Templates/bc-template.md",
-    "Templates/Sample Note.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Article III.md",
@@ -756,10 +802,6 @@
     "Notes - Civil Procedure/Pleadings",
     "Notes - Civil Procedure/Venue & Choice of Law",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Personal",
-    "Notes - Civil Procedure/Jurisdiction/Untitled 1.md",
-    "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Supplemental/Jur.md",
-    "a.md",
-    "Notes - Torts/Notes - Torts.md",
-    "Notes - Constitutional Law/Notes - Constitutional Law.md"
+    "Notes - Civil Procedure/Jurisdiction/Untitled 1.md"
   ]
 }
