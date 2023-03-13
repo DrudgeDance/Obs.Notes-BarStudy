@@ -112,8 +112,42 @@
                   "state": {},
                   "pinned": true
                 }
+              },
+              {
+                "id": "44b29f84181d463f",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Sample Note",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Sample Note.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":43},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Templates",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":3},\"to\":{\"line\":7,\"ch\":3}}}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Templates/bc-template.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "3cd269895996b0bf",
@@ -157,7 +191,7 @@
                       {
                         "id": "f8db1f7abd42c361",
                         "type": "tabs",
-                        "dimension": 36.75344563552833,
+                        "dimension": 38.78429263044648,
                         "children": [
                           {
                             "id": "833818dbf9dcd8b8",
@@ -250,7 +284,7 @@
                       {
                         "id": "9185b3d02f79856f",
                         "type": "tabs",
-                        "dimension": 22.00102092904543,
+                        "dimension": 20.494889725658958,
                         "children": [
                           {
                             "id": "a07d3cd3167fdabb",
@@ -274,7 +308,7 @@
                       {
                         "id": "f0b61bd89361c14e",
                         "type": "tabs",
-                        "dimension": 41.24553343542624,
+                        "dimension": 40.72081764389457,
                         "children": [
                           {
                             "id": "dbbc36f236ba03a2",
@@ -292,8 +326,51 @@
                               "type": "custom-frames-toggl",
                               "state": {}
                             }
+                          },
+                          {
+                            "id": "63712c1e13456505",
+                            "type": "leaf",
+                            "pane-relief:history-v1": {
+                              "pos": 0,
+                              "stack": [
+                                {
+                                  "state": "{}",
+                                  "eState": "{}"
+                                }
+                              ]
+                            },
+                            "state": {
+                              "type": "markdown",
+                              "state": {
+                                "file": "Templates/Sample Note.md",
+                                "mode": "source",
+                                "source": false
+                              }
+                            }
+                          },
+                          {
+                            "id": "fd9e46cdddd0c431",
+                            "type": "leaf",
+                            "pane-relief:history-v1": {
+                              "pos": 0,
+                              "stack": [
+                                {
+                                  "state": "{}",
+                                  "eState": "{}"
+                                }
+                              ]
+                            },
+                            "state": {
+                              "type": "markdown",
+                              "state": {
+                                "file": "Templates/bc-template.md",
+                                "mode": "source",
+                                "source": false
+                              }
+                            }
                           }
-                        ]
+                        ],
+                        "currentTab": 1
                       }
                     ],
                     "direction": "vertical"
@@ -459,6 +536,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/bc-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -484,6 +562,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/bc-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -503,7 +582,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/bc-template.md"
+              }
             }
           },
           {
@@ -596,7 +677,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -624,10 +705,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "7a297fc9275fa70b",
+  "active": "44b29f84181d463f",
   "lastOpenFiles": [
-    "Notes - Civil Procedure/Untitled.md",
     "Templates/Sample Note.md",
+    "Templates.md",
+    "Templates/bc-template.md",
+    "Notes - Civil Procedure/Untitled.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Article III.md",
@@ -655,12 +738,10 @@
     "Notes - Civil Procedure/Jurisdiction/Untitled 1.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Supplemental/Jur.md",
     "a.md",
-    "Templates.md",
     "Notes - Torts/Notes - Torts.md",
     "Notes - Constitutional Law/Notes - Constitutional Law.md",
     "Test Test 2.md",
     "Test Test 1 2.md",
-    "Test Test 1.md",
-    "Test Test.md"
+    "Test Test 1.md"
   ]
 }
