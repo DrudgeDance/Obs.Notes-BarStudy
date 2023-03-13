@@ -579,7 +579,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 500.5
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -606,7 +606,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "e31a64f634fc5f53",
+  "active": "b0ae091f5dd8cb67",
   "lastOpenFiles": [
     "Notes - Civil Procedure/Untitled.md",
     "Templates/Sample Note.md",
