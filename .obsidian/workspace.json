@@ -139,13 +139,43 @@
                     {
                       "state": "{}",
                       "eState": "{}"
+                    },
+                    {
+                      "title": "Templates",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Untitled",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Untitled",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes - Civil Procedure/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Templates",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Untitled",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                     }
                   ]
                 },
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Untitled.md",
+                    "file": "Templates/Sample Note.md",
                     "mode": "source",
                     "source": false
                   }
@@ -524,7 +554,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Templates/Sample Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -550,7 +580,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Templates/Sample Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -571,7 +601,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Templates/Sample Note.md"
               }
             }
           },
@@ -695,12 +725,13 @@
   },
   "active": "88982db748e1fbcd",
   "lastOpenFiles": [
+    "Templates.md",
     "Untitled.md",
+    "Notes - Civil Procedure/Untitled.md",
+    "Templates 1.md",
     "Notes Real Property/Untitled.md",
     "Templates/bc-template.md",
     "Templates/Sample Note.md",
-    "Templates.md",
-    "Notes - Civil Procedure/Untitled.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Jurisdiction - Subject Matter.md",
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Subject Matter/Article III.md",
@@ -729,7 +760,6 @@
     "Notes - Civil Procedure/Jurisdiction/Jurisdiction - Supplemental/Jur.md",
     "a.md",
     "Notes - Torts/Notes - Torts.md",
-    "Notes - Constitutional Law/Notes - Constitutional Law.md",
-    "Test Test 2.md"
+    "Notes - Constitutional Law/Notes - Constitutional Law.md"
   ]
 }
